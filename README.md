@@ -1,6 +1,6 @@
-# CleanTargetFrames
+# CleanUnitFrames
 
-Hides all debuffs on the Target and Focus frames in World of Warcraft.
+Hides all debuffs on the Target and Focus unit frames in World of Warcraft.
 
 ## Features
 

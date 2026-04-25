@@ -1,0 +1,10 @@
+## Interface: 120005
+## Title: CleanUnitFrames
+## Category: UnitFrames
+## Notes: Hides all debuffs on the Target and Focus frames.
+## Author: MIYANKO
+## Version: 1.0.0
+## IconTexture: 7549438
+
+HideDebuffs.lua
+HidePrestigeBadge.lua
